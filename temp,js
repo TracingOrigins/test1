@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hello world
 // @namespace    https://tracingorigins.gitee.io
-// @version      0.1
+// @version      0.2
 // @description  new script
 // @author       TracingOtigins
 // @license      AGPL-3.0
@@ -14,4 +14,5 @@
     'use strict';
 
     // Your code here...
+    console.log("hello world");
 })();
